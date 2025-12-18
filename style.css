@@ -121,8 +121,6 @@ body {
 .about-text {
   display: flex;
   text-align:left;
-  padding-left: 50px;
-  padding-right: 20px; 
   justify-content: space-around;
   font-family: "Helvetica Neue", Arial, sans-serif;
  }
@@ -162,7 +160,6 @@ body {
   padding-top: 20px;
   height: 200px;
   width: 300px;
-  margin-left: 50px;
   grid-column: 1 / 2;
   grid-row: 1 / 3;
 }
